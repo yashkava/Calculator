@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculators</string>
+    <string name="enter_the_first_number_here">ENTER THE FIRST NUMBER HERE</string>
+    <string name="enter_the_secound_number_here">ENTER THE SECOUND NUMBER HERE</string>
+    <string name="enter_the_secound_number">ENTER THE SECOUND NUMBER HERE</string>
+    <string name="plus">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="per">%</string>
+    <string name="reset">RESET</string>
+    <string name="answer_is">ANSWER IS</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="bmi">BMI\nCalculator</string>
+    <string name="length">Length\nConversions</string>
+    <string name="weight">Weight\nConversions</string>
+    <string name="gst">GST\nCalculator</string>
+    <string name="percentage">Percentage\nCalculator</string>
+    <string name="normal">Normal\nCalculator</string>
+</resources>
